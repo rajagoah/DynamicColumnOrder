@@ -1,0 +1,6 @@
+   Age  Load_date  ... Therapeutic area  program_start_date
+0   20  7/23/2020  ...              IMM            1/1/2000
+1   21  7/22/2020  ...               ID            1/2/1999
+2   19  7/20/2020  ...              CVM            1/2/2001
+
+[3 rows x 6 columns]
